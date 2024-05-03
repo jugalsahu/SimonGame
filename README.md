@@ -34,9 +34,6 @@ This web-based version of the Simon Game brings the nostalgia of the original ga
 - **Sound and Visual Feedback**: Enjoy sounds and flashing lights reminiscent of the original game.
 - **Endless Fun**: Endless levels provide hours of entertainment and challenge.
 
-## Demo
-
-To see a demo of the Simon Game in action, [click here](https://your-demo-link-here).
 
 ## Installation
 
